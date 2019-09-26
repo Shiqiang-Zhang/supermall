@@ -1,4 +1,4 @@
-# supermall
+跟着coderwhy做的一个项目，好多地方还在完善中
 
 ## Project setup
 ```
